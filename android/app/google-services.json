@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988125705241",
+    "project_id": "movier-ab5be",
+    "storage_bucket": "movier-ab5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988125705241:android:736342f4fe19482169a688",
+        "android_client_info": {
+          "package_name": "com.shivang.movier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988125705241-qk7njlblhmib2gbojoghtb48m65jcpem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivang.movier",
+            "certificate_hash": "61ccfcbe6d2215415f181a4750406239053ddd4d"
+          }
+        },
+        {
+          "client_id": "988125705241-t7bpfj282r4u95ptks9mb4i6uo05h2p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaRG2UGtGqfdkmp6oYwhpogV8_1KvkxVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988125705241-t7bpfj282r4u95ptks9mb4i6uo05h2p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
